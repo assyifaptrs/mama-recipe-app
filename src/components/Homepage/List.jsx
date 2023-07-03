@@ -65,11 +65,11 @@ export default function ListPage({ recipes }) {
       <TitleSection className="mb-4 mb-md-5">Latest Recipe</TitleSection>
       <Card recipes={recipes} />
 
-      <Row style={{marginTop: '30px', justifyContent: 'center', width: '100%'}}>
+      {/* <Row style={{marginTop: '30px', justifyContent: 'center', width: '100%'}}>
         <Button>3</Button>
         <Button>2</Button>
         <Button>1</Button>
-      </Row>
+      </Row> */}
     </Section>
   );
 }
