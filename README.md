@@ -1,70 +1,95 @@
-# Getting Started with Create React App
+<br/>
+<p align="center">
+  <a href="https://github.com/assyifaptrs/mama-recipe-app">
+    <img src="https://i.postimg.cc/JnsbMGwj/mamarecipe-logo.png" alt="Logo" width="150" height="180">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Mama Recipe</h3>
 
-## Available Scripts
+  <p align="center">
+    Discover Recipe & Delicious Food.
+    <br/>
+    <br/>
+    <a href="https://github.com/assyifaptrs/mama-recipe-app"><strong>Explore the docs »</strong></a>
+    <br/>
+    <br/>
+    <a href="https://github.com/assyifaptrs/mama-recipe-app">View Demo</a>
+    .
+    <a href="https://github.com/assyifaptrs/mama-recipe-app/issues">Report Bug</a>
+    .
+    <a href="https://github.com/assyifaptrs/mama-recipe-app/issues">Request Feature</a>
+  </p>
+</p>
 
-In the project directory, you can run:
+## Table Of Contents
 
-### `npm start`
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Installation](#installation)
+* [Related Project](#related-project)
+* [Contact](#contact)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p align="center">
+  <img src="https://i.postimg.cc/rs7mJ8QT/mama-recipe-website.png" alt="Logo" width="750" height="400">
+</p>
 
-### `npm test`
+**Mama Recipe** is a responsive web-based application that can be accessed on desktop or mobile devices. The app aims for users to find what recipes they need or share their recipes food to each other.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `npm run build`
+This app was built with some technologies below:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- CSS
+- Javascript
+- React
+- Axios
+- Redux
+- Bootstrap
+- Reactstrap
+- styled-components
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you want to run this project locally, we recommend you configure the back-end first before configuring this repo front-end.
 
-### `npm run eject`
+- Clone the Repo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+  git clone https://github.com/assyifaptrs/mama-recipe-app.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Go To Folder Repo
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+  cd mama-recipe-app
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Install Module
 
-## Learn More
+```
+  npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Setup .env
+```
+  REACT_APP_BACKEND_URL =
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Type  ```npm run dev``` To Start Website
+- Type  ```npm run start``` To Start Production
 
-### Code Splitting
+## Related Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+:rocket: [`Backend Mama Recipe`](https://github.com/assyifaptrs/mama-recipe-api)
 
-### Analyzing the Bundle Size
+:rocket: [`Frontend Mama Recipe`](https://github.com/assyifaptrs/mama-recipe-app)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
 
-### Making a Progressive Web App
+- Email : [`muliaassyifa@gmail.com`](mailto:muliaassyifa@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- LinkedIn : [`/in/assyifa-putri/`](https://www.linkedin.com/in/assyifa-putri/)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub : [`assyifaptrs`](https://github.com/assyifaptrs)
