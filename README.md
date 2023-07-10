@@ -32,7 +32,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://i.postimg.cc/rs7mJ8QT/mama-recipe-website.png" alt="Logo" width="750" height="400">
+  <img src="https://i.postimg.cc/kX8PdVkC/mama-recipe-home.png" alt="Logo" width="750" height="400">
 </p>
 
 **Mama Recipe** is a responsive web-based application that can be accessed on desktop or mobile devices. The app aims for users to find what recipes they need or share their recipes food to each other.
